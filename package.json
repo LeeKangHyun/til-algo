@@ -1,0 +1,22 @@
+{
+  "name": "til-algo",
+  "version": "1.0.0",
+  "description": "인프런 자바스크립트 알고리즘 따라해보기",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeKangHyun/til-algo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeKangHyun/til-algo/issues"
+  },
+  "homepage": "https://github.com/LeeKangHyun/til-algo#readme",
+  "dependencies": {
+    "@babel/core": "^7.14.3"
+  }
+}
